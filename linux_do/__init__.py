@@ -211,8 +211,8 @@ class SvgCardService:
             ]
 
             # 每列4条 => 3列
-            label_x = [30, 230, 430]  # 三列的 label x
-            value_x = [150, 350, 550]  # 三列的 value x
+            label_x = [30, 218, 412]  # 三列的 label x
+            value_x = [133, 313, 510]  # 三列的 value x
             row_y = [128, 158, 188, 218]  # 四行 y
 
             summary_texts = []
