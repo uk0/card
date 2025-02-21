@@ -13,6 +13,13 @@
 * `theme` 为主题，可选值为 `auto`、`dark`、`light`，默认为 `auto`。
 
 
+
+### quick start
+
+```shell
+docker run -p 8000:8000 firshme/card:linuxdo
+```
+
 ### demo
 
 ![img.png](img.png)
