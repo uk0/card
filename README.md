@@ -11,3 +11,8 @@
 
 * `neoj`为用户名，我这里用自己的作测试，你可以用你的用户名替换。
 * `theme` 为主题，可选值为 `auto`、`dark`、`light`，默认为 `auto`。
+
+
+### demo
+
+![img.png](img.png)
